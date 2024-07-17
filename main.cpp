@@ -90,7 +90,7 @@ int main() {
                 fileSystem.enqueueMove(name, destination, filename, isDir);
                 break;
             case 6:
-                std::cout << "Directory structure:" << std::endl;
+                std::cout << std::endl << "Directory structure:" << std::endl;
                 fileSystem.displayDirectoryStructure();
                 break;
             case 7:
