@@ -1,17 +1,14 @@
-# FileSytem
-A file system project.
-
-David A Torres, Uploaded July 5, 2024.
+<h1 align="Left">File System</h1>
 
 A project for a timed exam of 4 hours.
-Requirements for the project were: 
+The functions of the application are:
+  - Insert (Directory/File), search, delete, display directory structure, undo, display contents of a specific directory, rename directory, copy a file, and sort a specified directory.
+  - The directory was built on a **binary tree**, and uses a BST to search and **quick sort**.
 
-Ability to look into, remove, insert, move, and copy a "file".
-Ability to show directory structure.
-An undo option.
-Sorting a specified directory.
-Structuring the Directory into a BST. Navigating BST for the look function.
+<h3 align="Left">Main Menu</h3>
 
-![](https://github.com/DavidaTorres1/File-Sytem/blob/main/giphy.gif)
+![main menu](https://github.com/DavidaTorres1/File-Sytem/blob/main/MainMenu.png)
 
-// I was unable to get the copy function working //
+<h3 align="Left">Directory Structure</h3>
+
+![Directory Structure](https://github.com/DavidaTorres1/File-Sytem/blob/main/DirectoryStructure.png)
